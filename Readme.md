@@ -14,7 +14,12 @@ DZ9. Пишем скрипт
     Список всех кодов HTTP ответа с указанием их кол-ва с момента последнего запуска скрипта.
     Скрипт должен предотвращать одновременный запуск нескольких копий, до его завершения.
 
-Скрипт находится в файле myscript.sc;   
-Cron в файле crontab;   
-Письмо в файле mail;    
+Скрипт находится в файле [myscript.sc];   
+Cron в файле [crontab];   
+Письмо в файле [mail];    
 access.log не прикладываю из соображений безопасности, т.к. копировала его с рабочего сервера
+
+[myscript.sc]:https://github.com/zoyqqyoz/Otus_Kaneva_dz9/blob/master/myscript.sc
+[crontab]:https://github.com/zoyqqyoz/Otus_Kaneva_dz9/blob/master/crontab
+[mail]:https://github.com/zoyqqyoz/Otus_Kaneva_dz9/blob/master/mail
+
