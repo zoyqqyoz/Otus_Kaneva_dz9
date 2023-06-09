@@ -16,7 +16,7 @@ DZ9. Пишем скрипт
 
 Скрипт находится в файле [myscript.sc];   
 Cron в файле [crontab];   
-Письмо в файле [mail];    
+Получившееся письмо в файле [mail];    
 access.log не прикладываю из соображений безопасности, т.к. копировала его с рабочего сервера
 
 [myscript.sc]:https://github.com/zoyqqyoz/Otus_Kaneva_dz9/blob/master/myscript.sc
